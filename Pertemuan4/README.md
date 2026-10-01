@@ -33,4 +33,8 @@
 <img width="750" height="838" alt="image" src="https://github.com/user-attachments/assets/75bd48fc-40b8-4d2e-bb8f-f7b589d4a29a" />
 
 ## Hasil Running
+### Java
 <img width="992" height="301" alt="image" src="https://github.com/user-attachments/assets/a8347c4a-d4a2-499c-bc1e-42a776a7d862" />
+
+### php
+<img width="1009" height="189" alt="image" src="https://github.com/user-attachments/assets/a15240ec-a6bd-4b4c-b0ce-857054628a6b" />
