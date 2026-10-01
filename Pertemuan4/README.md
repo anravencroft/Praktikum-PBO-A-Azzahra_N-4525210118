@@ -33,4 +33,4 @@
 <img width="750" height="838" alt="image" src="https://github.com/user-attachments/assets/75bd48fc-40b8-4d2e-bb8f-f7b589d4a29a" />
 
 ## Hasil Running
-<img width="750" height="838" alt="image" src="https://github.com/user-attachments/assets/34837e62-2edf-44b5-ab0c-7c2d0549cad1" />
+<img width="992" height="301" alt="image" src="https://github.com/user-attachments/assets/a8347c4a-d4a2-499c-bc1e-42a776a7d862" />
