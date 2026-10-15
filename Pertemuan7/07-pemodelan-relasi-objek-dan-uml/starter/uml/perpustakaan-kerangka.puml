@@ -28,22 +28,22 @@ package model {
   class Buku {
     - isbn : String
     - penerbit : String
-    + masaPinjamHari() : int    '21 hari
+    + masaPinjamHari() : int    '14 hari
     + bolehDipinjam() : boolean 'true
   }
 
   class Majalah {
     - edisi : String
     - volume : int
-    + masaPinjamHari() : int    '7 hari
+    + masaPinjamHari() : int    '3 hari
     + bolehDipinjam() : boolean 'true
   }
 
   class Skripsi {
     - pembimbing : String
     - programStudi : String
-    + masaPinjamHari() : int    '14 hari
-    + bolehDipinjam() : boolean 'true
+    + masaPinjamHari() : int    
+    + bolehDipinjam() : boolean 'false
   }
 
   class Bab {
