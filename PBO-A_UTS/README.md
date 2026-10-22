@@ -33,7 +33,7 @@
 **Daftar Fitur:**
 1. Nama Penyakit Pasien
 2. Nama Rumah Sakit
-3. Nama Dokter Yang Memeriksa
+3. Nama Dokter
 4. Nama Pasien
 5. Alamat Pasien
 
@@ -46,42 +46,46 @@
 > [Isi Penjelasan mengenai fungsi file ini dan konsep OOP yang diterapkan.]
 
 **Screenshot Kode:**
-![SS Code Penyakit.java](gambar-code-java-1)
+<img width="787" height="814" alt="image" src="https://github.com/user-attachments/assets/3f419e5e-eb08-4f65-8b80-36df51bd5ed4" />
 
 ### 1.2. File: `RumahSakit.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan.]
 
 **Screenshot Kode:**
-![SS Code RumahSakit.java](gambar-code-java-2)
+
+<img width="686" height="918" alt="Screenshot 2026-10-22 214106" src="https://github.com/user-attachments/assets/1975bc7f-15da-4106-b946-316ae3504f81" />
+<img width="865" height="396" alt="Screenshot 2026-10-22 214133" src="https://github.com/user-attachments/assets/c3c1222a-0119-4239-8c53-5e2eee117bd4" />
+
 
 ### 1.3. File: `Dokter.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Dokter.java](gambar-code-java-3)
+<img width="628" height="885" alt="image" src="https://github.com/user-attachments/assets/0a61aff5-f3a9-4a34-9eb4-085c6dde6c1c" />
+
 
 ### 1.4. File: `Pasien.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Pasien.java](gambar-code-java-3)
+<img width="808" height="933" alt="image" src="https://github.com/user-attachments/assets/f5a0130e-d544-4414-901f-404364e24001" />
 
 ### 1.5. File: `Alamat.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Alamat.java](gambar-code-java-3)
+<img width="798" height="731" alt="image" src="https://github.com/user-attachments/assets/47d9feb0-1a3d-40a3-a8da-e5801a689e3b" />
 
 ### 1.6. File: `Main.java`
 **Penjelasan Kode:**
 > [Isi Penjelasan mengenai alur eksekusi program utama.]
 
 **Screenshot Kode:**
-![SS Code Main.java](gambar-code-java-3)
+<img width="878" height="777" alt="image" src="https://github.com/user-attachments/assets/c1030704-13b0-4116-8a64-83fb6986555c" />
 
 ### Output
 **Hasil Running Program (Java):**
