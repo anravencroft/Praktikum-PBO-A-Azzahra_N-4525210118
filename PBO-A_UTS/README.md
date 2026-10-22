@@ -85,7 +85,8 @@
 
 ### Output
 **Hasil Running Program (Java):**
-![Output Java](gambar-output-java)
+
+<img width="724" height="670" alt="Screenshot 2026-10-22 165631" src="https://github.com/user-attachments/assets/763abba6-4acd-44c3-9489-e06bf01e62e0" />
 
 ---
 
